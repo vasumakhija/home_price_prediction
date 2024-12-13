@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: home-price-prediction
-    env: python
-    buildCommand: ""
-    startCommand: gunicorn server.server:app
