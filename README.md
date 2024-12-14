@@ -6,8 +6,9 @@ This project is a web-based application that predicts house prices based on user
 
 ---
 
-![Home Page](IMAGES\Screenshot1.png"Home Page Screenshot")
+![Home Page](IMAGES/Screenshot1.png "Home Page Screenshot")
 ![Estimate Price](IMAGES/Screenshot2.png "Estimate Price Result")
+
 
 ## Table of Contents
 
